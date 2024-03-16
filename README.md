@@ -3,7 +3,7 @@ This app will connect to Open Library and display a list of book titles accordin
 
 ## How to use:
 - Use the link below to open the app directly or clone the repository.
-- Once the app is open write a book genre in the search bar (adventure, romance...) and click the send button.
+- Once the app is opened write a book genre in the search bar (adventure, romance...) and click the send button.
 - Click on one of the available books and view the description below (if avaialable).
 
 
