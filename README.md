@@ -8,4 +8,4 @@ This app will connect to Open Library and display a list of book titles accordin
 
 
 
-View project [Here](https://fetch-api-js-7092b.firebaseapp.com/))
+View project [Here](https://fetch-api-js-7092b.firebaseapp.com/)
